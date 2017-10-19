@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Deploy Laravel App to AWS Elastic Beanstalk via Bitbucket Pipeline"
 date: 2014-04-30
 ---
 
