@@ -6,7 +6,7 @@ sidebar_image: /images/cover.jpg
 # Build settings
 markdown: kramdown
 highlighter: rouge
-#baseurl: /strange_case # the subpath of your site, e.g. /blog/
+baseurl: http://blog.limebit.de/ # the subpath of your site, e.g. /blog/
 
 #permalink
 #permalink: /blog/:day/:month/:year/:title
