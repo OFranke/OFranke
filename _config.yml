@@ -1,12 +1,14 @@
 # Site settings
-title: 'Strange Case' # Your Title
-tagline: 'Twisted tales to make you shudder' # A brief tagline for your site
+title: 'Limebit - Berliner Digitalagentur' # Your Title
+tagline: 'Softwareentwicklung made in Berlin' # A brief tagline for your site
+site_title: 'test'
 sidebar_image: /images/cover.jpg
+pimmel: 'geiler pimmel'
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-baseurl: http://blog.limebit.de/ # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 
 #permalink
 #permalink: /blog/:day/:month/:year/:title
