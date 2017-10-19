@@ -9,4 +9,4 @@ highlighter: pygments
 baseurl: /strange_case # the subpath of your site, e.g. /blog/
 
 #permalink
-permalink: /blog/:day/:month/:year/:title
+#permalink: /blog/:day/:month/:year/:title
